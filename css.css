@@ -1,0 +1,76 @@
+.navbar{
+  font-size: large;
+}
+
+body{
+    background-image: url(./back1.jpg);
+    background-size: 900rem,300rem;
+    
+   
+    background-repeat: no-repeat;
+}
+
+#navbarNav{
+    margin-left: 5%;
+}
+#navbarNav{
+    margin-left: 30%;
+    padding-left: 20%;
+}
+#hi{
+    margin-left: 20%;
+    margin-top: 10%;
+    font-size:x-large;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#fname{
+ 
+    margin-left: 20%;
+    
+    font-size:x-large;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#lname{
+  
+    margin-left: 20%;
+    
+    font-size:x-large;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#role{
+   
+    margin-left: 20%;
+    
+    font-size:x-large;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#aboutme{
+    margin-top: 10%;
+    font-size: medium;
+}
+
+#pic{
+    margin-left: 20%;
+}
+#about{
+    font-size: medium;
+    line-height: 152%;
+    color:grey;
+    font-weight: 600;
+}
+#topic{
+    font-size:xx-large;
+    line-height: 152%;
+    color:black;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 10%;
+
+}
+.media-body{
+    margin-left: 3%;
+}
